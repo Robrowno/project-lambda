@@ -10,18 +10,60 @@
 
 body {
     font-family: 'Times New Roman', Times, serif;
+    color: black;
 
 }
+
+header {
+    height: 80px;
+
+}
+
 
 h1 {
     font-family: 'Noto Serif Display', serif;
+    color: black;
+    text-align: left;
+
 
 }
+
+#menu {
+    font-family: 'Noto Serif Display', serif;
+    font-size: 150%;
+
+}
+
+#menu li {
+    float:right;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+#about {
+    height: fit-content;
+
+}
+
+#context {
+    height: fit-content;
+
+}
+
+#belligerents {
+    height: fit-content;
+
+}
+
+
+
 
 #thermopyles {
-    height: 700px;
+    height: 500px;
     width: 100%;
     background: url(../assets/images/Thermopyles-Greece.webp) no-repeat center center;
-
+    
 
 }
+
+
