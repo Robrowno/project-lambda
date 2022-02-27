@@ -14,11 +14,6 @@ body {
 
 }
 
-/* header {
-    height: 80px;
-    background-color: goldenrod;
-
-} */
 
 
 h1 {
@@ -54,7 +49,6 @@ h1 {
     padding-left: 15px;
 
 
-    /* display: flex; */
 }
 #menu {
     font-family: 'Noto Serif Display', serif;
@@ -62,19 +56,20 @@ h1 {
     color: black;
     padding-right: 15px;
     width: 50%;
-    /* align-items: center;
-    justify-content: center;
-    display: flex; */
+    justify-content: right;
+    display: flex;
+    
 
 }
 
+#menu ul{
+    display: inline-flex;
+}
 
 #menu li {
-    float:right;
     list-style-type: none;
     padding-right: 5px;
-    /* margin-top: 20px; */
-    /* margin-right: 20px; */
+ 
 }
 
 #menu a {
@@ -85,13 +80,25 @@ h1 {
 
 }
 
+.navi {
+    padding: 10px;
+}
+
 .navi a:hover {
     border-bottom: 1px solid black;
 
 }
 
+/* image */
 
 
+#thermopyles {
+    height: 500px;
+    width: 100%;
+    background: url(../assets/images/thermopylae2.jpeg) no-repeat center center;
+    
+
+}
 
 #about {
     height: fit-content;
@@ -110,21 +117,25 @@ h1 {
 
 
 
-
-#thermopyles {
-    height: 500px;
-    width: 100%;
-    background: url(../assets/images/Thermopyles-Greece.webp) no-repeat center center;
-    
-
-}
-
-
-
-
-
+/* footer */
 
 footer {
     background-color: goldenrod;
     height: 100px;
+    bottom: 0;
+}
+
+/* media queries */
+
+@media screen and (min-width: 377px) {
+
+    .navi {
+        padding: 15px
+    }
+    
+    #thermopyles {
+        
+        background-image: url(../assets/images/Thermopyles-Greece.webp);
+        
+    }
 }
