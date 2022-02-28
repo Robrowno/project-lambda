@@ -125,6 +125,32 @@ footer {
     bottom: 0;
 }
 
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline-block;
+    size: 2rem;
+    margin: 30px 90px 20px; 
+    
+
+}
+
+.social-networks i {
+    font-size: 250%;
+    padding: 20%;
+    color: black;
+    border-right: 50px;
+    
+    
+
+}
+
+li #hidden-link {
+    display: none;
+
+}
 /* media queries */
 
 @media screen and (min-width: 377px) {
