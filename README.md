@@ -21,3 +21,4 @@ Thermopyles image : https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikiped
 
 Thermopylae image 2 : https://www.livius.org/pictures/greece/thermopylae/thermopylae-view-from-electricity-mast/
 
+Greek Hoplite Image: https://www.worldhistory.org/image/152/greek-hoplite/ - Originally published by Johnny Shumate and uploaded by Jan Van Der Crabben under the following license: Public Domain. 

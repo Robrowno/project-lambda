@@ -11,6 +11,7 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     color: black;
+    background-color: rgba(176, 178, 184, .7);
 
 }
 
@@ -25,6 +26,7 @@ h1 {
 
     
 }
+
 
 /* --- Navigation --- */
 
@@ -76,7 +78,6 @@ h1 {
 
     text-decoration: none;
     color: inherit;
-    
 
 }
 
@@ -89,7 +90,7 @@ h1 {
 
 }
 
-/* image */
+/*--- image ---*/
 
 
 #thermopyles {
@@ -98,6 +99,20 @@ h1 {
     background: url(../assets/images/thermopylae2.jpeg) no-repeat center center;
     
 
+}
+
+/*--- Main Content ---*/
+
+p {
+    margin-left: 15px;
+}
+
+h2 {
+    margin-left: 15px;
+}
+
+img {
+    margin-left: 15px;
 }
 
 #about {
@@ -117,11 +132,12 @@ h1 {
 
 
 
-/* footer */
+/*--- footer ---*/
 
 footer {
     background-color: goldenrod;
-    height: 100px;
+    height: 120px;
+    width: 100%;
     bottom: 0;
 }
 
@@ -142,8 +158,6 @@ footer {
     padding: 20%;
     color: black;
     border-right: 50px;
-    
-    
 
 }
 
@@ -151,7 +165,8 @@ li #hidden-link {
     display: none;
 
 }
-/* media queries */
+
+/*--- media queries ---*/
 
 @media screen and (min-width: 377px) {
 
