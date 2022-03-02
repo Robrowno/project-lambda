@@ -22,3 +22,11 @@ Thermopyles image : https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikiped
 Thermopylae image 2 : https://www.livius.org/pictures/greece/thermopylae/thermopylae-view-from-electricity-mast/
 
 Greek Hoplite Image: https://www.worldhistory.org/image/152/greek-hoplite/ - Originally published by Johnny Shumate and uploaded by Jan Van Der Crabben under the following license: Public Domain. 
+
+Spartan Soldier Image: https://historyofyesterday.com/the-real-story-behind-the-300-spartans-760dfeb7e276 - credit itself is sourced to Wikimedia Commons. 
+
+Persian Immortal Image: https://www.hoplites.org/the-achaemenidian-persian-army-490-430bc/
+
+Hot Gates Battle Image: https://greekcitytimes.com/2020/08/20/the-battle-of-thermopylae/ - The image itself comes from a book titled "The Gates of Fire".
+
+Hoplites & Spada Image: https://historyofyesterday.com/the-real-story-behind-the-300-spartans-760dfeb7e276 - credit is sourced to Wikimedia Commons.

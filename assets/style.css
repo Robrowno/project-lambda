@@ -90,16 +90,16 @@ h1 {
 
 }
 
-/*--- image ---*/
+/*--- main image ---*/
 
-
-#thermopyles {
+#hotgates {
     height: 500px;
     width: 100%;
-    background: url(../assets/images/thermopylae2.jpeg) no-repeat center center;
-    
+    background: url(../assets/images/HotGates.jpeg) no-repeat center center;
 
 }
+
+
 
 /*--- Main Content ---*/
 
@@ -133,6 +133,16 @@ img {
 #persians {
     width: 750px;
     height: 493px;
+}
+
+/* --- Footer Image --- */
+
+#thermopyles {
+    height: 500px;
+    width: 100%;
+    background: url(../assets/images/Thermopyles-Greece.webp) no-repeat center center;
+    
+
 }
 
 /*--- footer ---*/
@@ -177,9 +187,5 @@ li #hidden-link {
         padding: 15px
     }
     
-    #thermopyles {
-        
-        background-image: url(../assets/images/Thermopyles-Greece.webp);
-        
-    }
+    
 }
