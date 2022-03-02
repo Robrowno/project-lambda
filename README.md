@@ -1,9 +1,41 @@
-# Battle of Thermopylae Website
+# Battle of Thermopylae Website - Project Lambda
 
-This is an informative history website focusing on the Battle of Thermopylae in 480BC.
+Project Lambda is an informative history website focusing on the Battle of Thermopylae in 480BC.
 
 The target audience for this website will be those looking to broaden there knowledge on Ancient Greek, or more specifically, Spartan history. 
 
+My goal with this website is to engage with this target audience and anyone who will be interested in learning about the battle having heard of it in history lessons or films/documentaries, and want to learn more. 
+
+---
+## Concept across different platforms
+
+
+
+
+
+---
+## My wireframe
+
+I came up with my first wireframe and concept using the Balsamiq Wireframes Application that was suggested by Code Institute. 
+This helped me to visualise my ideas and got me to think about how I might implement and style them. 
+
+Using Balsamiq, I came up with three mediums for the website. A desktop, Tablet and Mobile rendering: 
+
+### Desktop
+
+![A Desktop Rendering of the website](/assets/images/Desktop Wireframe.png)
+
+### Tablet
+
+! [A Tablet Rendering of the website](/assets/images/Tablet Wireframe.png)
+
+### Mobile
+
+! [A mobile Rendering of the website](/assets/images/Mobile Wireframe.png)
+
+---
+
+## Features
 
 
 
