@@ -23,15 +23,15 @@ Using Balsamiq, I came up with three mediums for the website. A desktop, Tablet 
 
 ### Desktop
 
-![A Desktop Rendering of the website](/assets/images/Desktop Wireframe.png)
+![Desktop](assets/images/Desktop_Wireframe.png)
 
 ### Tablet
 
-! [A Tablet Rendering of the website](/assets/images/Tablet Wireframe.png)
+![Tablet](assets/images/Tablet_Wireframe.png)
 
 ### Mobile
 
-! [A mobile Rendering of the website](/assets/images/Mobile Wireframe.png)
+![Mobile](assets/images/Mobile_Wireframe.png)
 
 ---
 
