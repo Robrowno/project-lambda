@@ -47,6 +47,8 @@ Using Balsamiq, I came up with three mediums for the website. A desktop, Tablet 
 
 
 
+
+
 Sources:
 
 Thermopyles image : https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FThermopylae&psig=AOvVaw3B9__qq0rwp50I9TGZa7c8&ust=1645882325799000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDgic37mvYCFQAAAAAdAAAAABAD
@@ -61,4 +63,18 @@ Spara Image: https://www.quora.com/Which-would-win-the-battle-the-Imperial-Roman
 
 Hot Gates Battle Image: https://greekcitytimes.com/2020/08/20/the-battle-of-thermopylae/ - The image itself comes from a book titled "The Gates of Fire".
 
-Hoplites & Spada Image: https://historyofyesterday.com/the-real-story-behind-the-300-spartans-760dfeb7e276 - credit is sourced to Wikimedia Commons.
+Hoplites & Spara Image: https://historyofyesterday.com/the-real-story-behind-the-300-spartans-760dfeb7e276 - credit is sourced to Wikimedia Commons.
+
+Persian Cavalry Image: https://weaponsandwarfare.files.wordpress.com/2017/03/175c3b6f924e8bd63f919a4b571c6f44.jpg
+
+War map Image: By User:Bibi Saint-Pol - Own work. Data from Image:Perserkriege.jpg by Captain Blood, which uses the dtv-Atlas Weltgeschichte. Von den Anfängen bis zur Gegenwart, p. 56. Blank map from Image:Map greek sanctuaries-fr.svg., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1724898
+
+300 Image: https://wallpaperaccess.com/300-movie - image from the movie '300' by Zack Snyder.
+
+300 Comic Image: https://www.amazon.co.uk/300-Frank-Miller/dp/1569714029 - image of Comic Book '300' by Frank Miller.
+
+Leonidas Monument Image: https://youingreece.com/thermopylae/leonidas-monument
+
+Thespian Monument Image: https://scottmanning.com/content/in-memory-of-the-700-thespians-at-thermopylae/
+
+Thermopylae Plaque Image: http://kiwihellenist.blogspot.com/2019/02/simonides.html

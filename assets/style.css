@@ -108,16 +108,31 @@ h1 {
 
 /*--- Main Content ---*/
 
+hr {
+    border: 2px solid goldenrod;
+    margin-top: 0.8em;
+}
+
 p {
     margin-left: 15px;
+    
 }
 
 h2 {
-    margin-left: 15px;
+    margin: 15px 15px 8px 15px;
+    text-decoration: underline;
+
 }
 
-img {
-    margin-left: 15px;
+h3 {
+    margin: 10px 15px 8px 15px;
+
+}
+
+div > img {
+    margin: 0px 15px 0px 15px;
+    width: 375px;
+    height: 247px;
 }
 
 #about {
@@ -139,37 +154,15 @@ img {
     background-color: gray;
     padding: 10px 0;
     text-align: center;
+    border: 1px solid goldenrod;
+    margin-top: 10px;
 }
 
-#hoplite {
-    width: 375px;
-    height: 247px;
+#herodotus {
+    font-weight: 500;
+    font-size: larger;
+    margin: 15px;
 
-}
-
-#phalanx {
-    width: 375px;
-    height: 247px;
-}
-
-#army {
-    width: 375px;
-    height: 247px;
-}
-
-#persians {
-    width: 375px;
-    height: 247px;
-}
-
-#spara {
-    width: 375px;
-    height: 247px;
-}
-
-#cavalry {
-    width: 375px;
-    height: 247px;
 }
 
 /* --- Footer Image --- */
@@ -178,8 +171,13 @@ img {
     height: 500px;
     width: 100%;
     background: url(../assets/images/Thermopyles-Greece.webp) no-repeat center center;
+    margin-top: 10px;
     
+}
 
+#warmap {
+    width: 700px;
+    height: 400px;
 }
 
 /*--- footer ---*/
