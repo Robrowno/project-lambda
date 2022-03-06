@@ -184,7 +184,7 @@ div > img {
 
 footer {
     background-color: goldenrod;
-    height: 120px;
+    min-height: 120px;
     width: 100%;
     bottom: 0;
 }
@@ -223,8 +223,30 @@ li #hidden-link {
 
 @media (min-width: 1281px) {
   
-    /* CSS */
+    #menu li {
+        padding: 1.5rem;
+        font-size: 1.3rem;
+    }
+
+    div > img {
+        margin: 0px 45px 0px 45px;
+        
+    }
+
+    #thermopyles {
+    background-color: grey;
     
+    }
+    
+
+    .social-networks > li {
+        padding: 1.3rem;
+    }
+
+    .social-networks i {
+        font-size: 340%;
+        padding: 50%;
+    }
   }
   
   /* 
