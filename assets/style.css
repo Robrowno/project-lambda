@@ -33,6 +33,7 @@ h1 {
 #header {
     /* border: 2px solid red; */
     height: 80px;
+    width: 100vw;
     background-color: goldenrod;
     display: flex;
     flex-direction: row;
@@ -56,7 +57,7 @@ h1 {
     font-family: 'Noto Serif Display', serif;
     font-size: 1.2rem;
     color: black;
-    padding-right: 15px;
+    padding-right: 15px; 
     width: 50%;
     justify-content: right;
     display: flex;
@@ -99,7 +100,6 @@ h1 {
     width: 100%;
     background: url(../assets/images/HotGates.jpeg) no-repeat center center;
     background-color: gray;
-    padding: 10px 0;
     text-align: center;
 
 }
@@ -152,11 +152,20 @@ div > img {
 
 .image-line {
     background-color: gray;
-    padding: 10px 0;
     text-align: center;
+    padding: 0px 10px;
     border: 1px solid goldenrod;
     margin-top: 10px;
+    
 }
+
+#warmap {
+    width: 90%;
+    height: 90%;
+    position: relative;
+    
+}
+
 
 #herodotus {
     font-weight: 500;
@@ -175,44 +184,73 @@ div > img {
     
 }
 
-#warmap {
-    width: 700px;
-    height: 400px;
-}
 
 /*--- footer ---*/
 
 footer {
     background-color: goldenrod;
-    min-height: 120px;
+    min-height: 200px;
     width: 100%;
     bottom: 0;
 }
 
-.social-networks {
-    text-align: center;
+#float-left {
+    float: left;
+    min-height: 120px;
+    width: 50%;
+    text-align: left;
+
 }
 
-.social-networks > li {
+#float-right {
+    float: right;
+    min-height: 120px;
+    width: 50%;
+    text-align: right;
+
+}
+
+
+#float-left li {
     display: inline-block;
-    size: 2rem;
-    margin: 30px 90px 20px; 
+    
+    margin: 7% 15%;
+    
     
 
 }
 
-.social-networks i {
-    font-size: 250%;
-    padding: 20%;
-    color: black;
-    border-right: 50px;
+#float-right li {
+    display: inline-block;
+    
+    margin: 7% 15%;
+    
 
 }
 
-li #hidden-link {
+#float-left i {
+    font-size: 250%;
+    color: black;
+    
+
+}
+
+#float-right i {
+    font-size: 250%;
+    color: black;
+    
+
+}
+
+
+
+/* li #hidden-link {
     display: none;
 
 }
+
+*/
+
 
 /*--- media queries ---*/
 
@@ -230,47 +268,52 @@ li #hidden-link {
 
     div > img {
         margin: 0px 45px 0px 45px;
+        width: 300px;
+        height: 197px;
+        display: inline-flex;
+        align-items: center;
         
     }
-
-    #thermopyles {
-    background-color: grey;
-    
-    }
     
 
-    .social-networks > li {
-        padding: 1.3rem;
-    }
-
-    .social-networks i {
-        font-size: 340%;
-        padding: 50%;
-    }
-  }
   
-  /* 
-    ##Device = Laptops, Desktops
-    ##Screen = B/w 1025px to 1280px
-  */
-  
-  @media (min-width: 1025px) and (max-width: 1280px) {
-    
-    /* CSS */
-    
-  }
+
   
   /* 
     ##Device = Tablets, Ipads (portrait)
     ##Screen = B/w 768px to 1024px
   */
   
-  @media (min-width: 768px) and (max-width: 1024px) {
+  @media (min-width: 815px) and (max-width: 1224px) {
     
-    /* CSS */
+    .image-line {
+        background-color: gray;
+        border: 1px solid goldenrod;
+        margin-top: 10px;
+        
+    }
     
-  }
+
+    div > img {
+    margin: 0px 15px 0px 15px;
+    width: 300px;
+    height: 197px;
+    display: inline-flex;
+    align-items: center;
+    }
+
+    #float-left li {
+        margin: 3%;
+        
+    }
+
+    #float-right li {
+        margin: 3%;
+    }
+
+    
   
+
   /* 
     ##Device = Tablets, Ipads (landscape)
     ##Screen = B/w 768px to 1024px
@@ -278,9 +321,16 @@ li #hidden-link {
   
   @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
     
-    /* CSS */
+    #float-left li {
+        margin: 3%;
+        
+    }
+
+    #float-right li {
+        margin: 3%;
+    }
     
-  }
+}
   
   /* 
     ##Device = Low Resolution Tablets, Mobiles (Landscape)
@@ -289,7 +339,7 @@ li #hidden-link {
   
   @media (min-width: 481px) and (max-width: 767px) {
     
-    /* CSS */
+    
     
   }
   
@@ -299,7 +349,33 @@ li #hidden-link {
   */
   
   @media (min-width: 320px) and (max-width: 480px) {
+
+
+
+    #float-left li {
+        margin: 5% 0.5%;
     
-    /* CSS */
+    }
     
+    #float-right li {
+        margin: 5% 0.5%;
+    
+    }
+    
+    #float-left i {
+        font-size: 200%;
+        
+        
+    
+    }
+    
+    #float-right i {
+        font-size: 200%;
+        
+        
+    
+    }
+
+}
   }
+}
