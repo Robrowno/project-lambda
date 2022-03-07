@@ -1,6 +1,6 @@
 /* CSS for Project-Lambda */
 
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&family=Roboto:wght@300&display=swap');
 
 * {
     margin: 0;
@@ -9,7 +9,7 @@
 }
 
 body {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
     color: black;
     background-color: rgba(176, 178, 184, .7);
 
@@ -18,9 +18,8 @@ body {
 /*--- Web Page Title ---*/
 
 h1 {
-    font-family: 'Noto Serif Display', serif;
+    font-family: 'Lora', serif;
     position: absolute;
-    /* margin: 15px; */
     color: black;
     text-align: left;
 
@@ -31,7 +30,6 @@ h1 {
 /* --- Navigation --- */
 
 #header {
-    /* border: 2px solid red; */
     min-height: 100px;
     width: 100vw;
     background-color: goldenrod;
@@ -54,7 +52,7 @@ h1 {
 
 }
 #menu {
-    font-family: 'Noto Serif Display', serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 1.2rem;
     color: black;
     padding-right: 15px; 
@@ -115,17 +113,19 @@ hr {
 
 p {
     margin-left: 15px; 
-  /* padding-left: 1.5%; */
+  
     
 }
 
 h2 {
+    font-family: 'Lora', serif;
     margin: 15px 15px 8px 15px;
     text-decoration: underline;
 
 }
 
 h3 {
+    font-family: 'Lora', serif;
     margin: 10px 15px 8px 15px;
 
 }
@@ -135,8 +135,7 @@ h3 {
     margin: 0px 15px 0px 15px;
     width: 80%;
     height: 80%;
-  /*  display: inline-flex;
-    align-items: center; */
+
 }
 
 
