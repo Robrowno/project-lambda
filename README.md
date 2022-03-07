@@ -6,8 +6,10 @@ The target audience for this website will be those looking to broaden there know
 
 My goal with this website is to engage with this target audience and anyone who will be interested in learning about the battle having heard of it in history lessons or films/documentaries, and want to learn more. 
 
+<!-- Insert deployement link to website here-->
+
 ---
-## Concept across different platforms
+## Website across different platforms
 
 
 
@@ -101,8 +103,61 @@ Using Balsamiq, I came up with three mediums for the website. A desktop, Tablet 
 
 ## Credits
 
+### Information Sources:
 
-Image Sources:
+Several other websites heavily influenced the information presented on my website. 
+
+Namely, these online sources include:
+
+- [Wikipedia (Source 1)](https://en.wikipedia.org/wiki/Battle_of_Thermopylae)
+- [History of Yesterday](https://historyofyesterday.com/the-real-story-behind-the-300-spartans-760dfeb7e276)
+- [ World History](https://www.worldhistory.org/thermopylae/)
+- [Realm of History](https://www.realmofhistory.com/2017/01/23/10-facts-battle-of-thermopylae/)
+- [Hellenic Art](https://www.hellenic-art.com/greco-persian-wars.html)
+- [Wikipedia (Source 2)](https://en.wikipedia.org/wiki/Sparta_in_popular_culture)
+- [Historynet](https://www.historynet.com/battle-of-thermopylae-leonidas-the-hero/)
+- [Greek armour/weapons](https://classroom.synonym.com/ancient-greek-armor-weapons-during-battle-thermopylae-12579.html)
+- [Hoplites](https://www.hoplites.org/the-achaemenidian-persian-army-490-430bc/)
+- [Greek-City-Times](https://greekcitytimes.com/2020/08/20/the-battle-of-thermopylae/)
+
+In the back of the comic book '300', which I mention in the Cultural Influence section of my page, there is a recommended reading list which I would like share for those that wish to further their understanding about the battle through other literature: 
+
+- *The Hot Gates* by William Golding
+- *The Histories* by Herodotus
+- *Thermopylae: The Battle for the West* by Ernie Bradford 
+- *The Western Way of War by Victor Davis* Hanson
+
+---
+
+### Icons & Fonts:
+Icons used the social media were provided using [Font-Awesome](https://fontawesome.com/icons/youtube?s=brands). 
+Chosen Fonts were selected from [Google-Fonts] (https://fonts.google.com/)
+
+---
+### Help from Peers:
+
+I hit bumps along the way on this project, being my very first website. 
+I couldn't have got it to where it is today without the help of the following people:
+
+- My Code Institute Mentor: Adegbenga Adeye
+- My London Coding Community Mentor: Harry Dhillon
+- Esteph, from the London Coding Community, who took the time out of her day to help me with problems in my code
+- Alexey Kuzmis, also from the London Coding Community, who helped with layout idea brainstorming at the start of the project
+- 
+
+---
+
+### Other Credit: 
+
+- Github Docs: helped me to expand my knowledge on README syntax: [Link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-  W3 Schools: for CSS tutorials. I cannot recommend this enough: [Link](https://www.w3schools.com/css/default.asp)
+- Coolers: A website that helped me to pair colours together in an appealing way: [Link](https://coolors.co/e3b505-95190c-b0b2b8-404e4d-cfd6ea)
+- gokulkrishh on Github Gist: providing a fantastic boilerplate Media Query template for other users, like myself, to take inspiration from: [gokulkrishh-template](https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488)
+
+
+
+---
+## Image Sources:
 
 Thermopyles image : [Link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FThermopylae&psig=AOvVaw3B9__qq0rwp50I9TGZa7c8&ust=1645882325799000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDgic37mvYCFQAAAAAdAAAAABAD)
 
@@ -131,3 +186,5 @@ Leonidas Monument Image: [Link](https://youingreece.com/thermopylae/leonidas-mon
 Thespian Monument Image: [Link](https://scottmanning.com/content/in-memory-of-the-700-thespians-at-thermopylae/)
 
 Thermopylae Plaque Image: [Link](http://kiwihellenist.blogspot.com/2019/02/simonides.html)
+
+---
