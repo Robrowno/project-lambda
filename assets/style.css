@@ -32,7 +32,7 @@ h1 {
 
 #header {
     /* border: 2px solid red; */
-    height: 80px;
+    min-height: 100px;
     width: 100vw;
     background-color: goldenrod;
     display: flex;
@@ -49,7 +49,7 @@ h1 {
 #logo{
     font-size: 1.3rem;
     position: relative;
-    padding-left: 15px;
+    padding-left: 6%;
 
 
 }
@@ -71,7 +71,7 @@ h1 {
 
 #menu li {
     list-style-type: none;
-    padding-right: 5px;
+    padding-right: 2%;
  
 }
 
@@ -114,7 +114,8 @@ hr {
 }
 
 p {
-    margin-left: 15px;
+    margin-left: 15px; 
+  /* padding-left: 1.5%; */
     
 }
 
@@ -129,11 +130,15 @@ h3 {
 
 }
 
-div > img {
+
+.image-line img {
     margin: 0px 15px 0px 15px;
-    width: 375px;
-    height: 247px;
+    width: 80%;
+    height: 80%;
+  /*  display: inline-flex;
+    align-items: center; */
 }
+
 
 #about {
     height: fit-content;
@@ -213,8 +218,8 @@ footer {
 
 #float-left li {
     display: inline-block;
-    
-    margin: 7% 15%;
+    line-height: 190px;
+    margin: 0% 12%;
     
     
 
@@ -222,21 +227,21 @@ footer {
 
 #float-right li {
     display: inline-block;
-    
-    margin: 7% 15%;
+    line-height: 190px;
+    margin: 0% 12%;
     
 
 }
 
 #float-left i {
-    font-size: 250%;
+    font-size: 3rem;
     color: black;
     
 
 }
 
 #float-right i {
-    font-size: 250%;
+    font-size: 3rem;
     color: black;
     
 
@@ -244,47 +249,43 @@ footer {
 
 
 
-/* li #hidden-link {
-    display: none;
-
-}
-
-*/
-
 
 /*--- media queries ---*/
 
-/* 
-  ##Device = Desktops
-  ##Screen = 1281px to higher resolution desktops
-*/
+/*For Larger Screens 
+  E.g: Laptop, Desktop */
 
-@media (min-width: 1281px) {
+@media (min-width: 1024px) {
+
+    #logo {
+        font-size: 2.3rem;
+        
+    }
   
+
+
     #menu li {
         padding: 1.5rem;
         font-size: 1.3rem;
     }
 
-    div > img {
-        margin: 0px 45px 0px 45px;
+    .image-line img {
+        margin: 0px 15px 0px 15px;
         width: 300px;
         height: 197px;
         display: inline-flex;
         align-items: center;
-        
+        } 
+
+
     }
-    
-
   
 
   
-  /* 
-    ##Device = Tablets, Ipads (portrait)
-    ##Screen = B/w 768px to 1024px
-  */
-  
-  @media (min-width: 815px) and (max-width: 1224px) {
+
+   /* For   Medium Sized Screens 
+      E.g:  Tablets, Ipads */
+  @media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
     
     .image-line {
         background-color: gray;
@@ -293,34 +294,15 @@ footer {
         
     }
     
-
-    div > img {
+    .image-line img {
     margin: 0px 15px 0px 15px;
-    width: 300px;
-    height: 197px;
+    width: 150px;
+    height: 98px;
     display: inline-flex;
     align-items: center;
     }
 
-    #float-left li {
-        margin: 3%;
-        
-    }
 
-    #float-right li {
-        margin: 3%;
-    }
-
-    
-  
-
-  /* 
-    ##Device = Tablets, Ipads (landscape)
-    ##Screen = B/w 768px to 1024px
-  */
-  
-  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
-    
     #float-left li {
         margin: 3%;
         
@@ -332,50 +314,38 @@ footer {
     
 }
   
-  /* 
-    ##Device = Low Resolution Tablets, Mobiles (Landscape)
-    ##Screen = B/w 481px to 767px
-  */
-  
-  @media (min-width: 481px) and (max-width: 767px) {
-    
-    
-    
-  }
-  
-  /* 
-    ##Device = Most of the Smartphones Mobiles (Portrait)
-    ##Screen = B/w 320px to 479px
-  */
-  
-  @media (min-width: 320px) and (max-width: 480px) {
 
+  
+  /* For Small Screens
+     E.g: Mobile Phones */
+  @media only screen and (min-width: 320px) and (max-width: 480px) {
 
-
+   #menu {
+       font-size: 1rem;
+   }
+   
     #float-left li {
-        margin: 5% 0.5%;
+        margin: 0% 7%;
     
     }
     
     #float-right li {
-        margin: 5% 0.5%;
+        margin: 0% 7%;
     
     }
     
     #float-left i {
-        font-size: 200%;
-        
-        
+        font-size: 2.5rem; 
     
     }
     
     #float-right i {
-        font-size: 200%;
+        font-size: 2.5rem;
         
-        
-    
     }
 
 }
-  }
-}
+  
+
+
+    
