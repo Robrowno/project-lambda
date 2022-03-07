@@ -6,7 +6,7 @@ The target audience for this website will be those looking to broaden there know
 
 My goal with this website is to engage with this target audience and anyone who will be interested in learning about the battle having heard of it in history lessons or films/documentaries, and want to learn more. 
 
-<!-- Insert deployement link to website here-->
+[Live Link here](https://robrowno.github.io/project-lambda/)
 
 ---
 ## Website across different platforms
