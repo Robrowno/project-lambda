@@ -247,6 +247,9 @@ i {
         align-items: center;
         } 
 
+        .social-networks li {
+            margin: 70px;
+        }
 
     }
   
