@@ -191,6 +191,16 @@ h3 {
 
 
 /*--- footer ---*/
+.social-networks {
+    text-align: center;
+    padding-top: 60px;
+       
+}
+.social-networks > li {
+    display: inline;
+    margin: 10px;
+    
+}
 
 footer {
     background-color: goldenrod;
@@ -199,53 +209,14 @@ footer {
     bottom: 0;
 }
 
-#float-left {
-    float: left;
-    min-height: 120px;
-    width: 50%;
-    text-align: left;
 
-}
-
-#float-right {
-    float: right;
-    min-height: 120px;
-    width: 50%;
-    text-align: right;
-
-}
-
-
-#float-left li {
-    display: inline-block;
-    line-height: 190px;
-    margin: 0% 12%;
-    
-    
-
-}
-
-#float-right li {
-    display: inline-block;
-    line-height: 190px;
-    margin: 0% 12%;
-    
-
-}
-
-#float-left i {
+i {
     font-size: 3rem;
     color: black;
     
 
 }
 
-#float-right i {
-    font-size: 3rem;
-    color: black;
-    
-
-}
 
 
 
@@ -300,7 +271,7 @@ footer {
     height: 98px;
     display: inline-flex;
     align-items: center;
-    }
+    } 
 
 
     #float-left li {
