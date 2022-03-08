@@ -123,24 +123,13 @@ h3 {
 }
 
 
-#about {
-    height: fit-content;
-}
-
-#context {
-    height: fit-content;
-}
-
-#belligerents {
-    height: fit-content;
-}
 
 .image-line {
     background-color: gray;
     text-align: center;
     padding: 0px 10px;
     border: 1px solid goldenrod;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 #warmap {
@@ -221,10 +210,11 @@ i {
         padding-bottom: 10px;
     }
 
+
     .image-line img {
         margin: 0px 15px 0px 15px;
-        width: 300px;
-        height: 197px;
+        width: 350px;
+        height: 230px;
         display: inline-flex;
         align-items: center;
         } 
