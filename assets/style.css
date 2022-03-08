@@ -102,6 +102,7 @@ hr {
 p {
     margin: 0 auto; 
     max-width: 600px;
+    padding-bottom: 10px;
 }
 
 h2 {
