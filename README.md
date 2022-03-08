@@ -11,9 +11,7 @@ My goal with this website is to engage with this target audience and anyone who 
 ---
 ## Website across different platforms
 
-
-
-
+![Responsiveness](assets/images/responsive-check.png)
 
 ---
 ## My wireframe
