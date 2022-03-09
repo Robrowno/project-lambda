@@ -86,17 +86,49 @@ Using Balsamiq, I came up with three mediums for the website. A desktop, Tablet 
 
 ## Testing
 
+HTML tested with no errors found on: https://validator.w3.org/
+
+![HTML Pass](assets/images/html-validation.png)
+
+--
+
+CSS tested with no errors found on: https://jigsaw.w3.org/css-validator/
+
+![CSS Pass](assets/images/css-validation.png)
 
 
+When deploying the website, no obvious bugs have been found by myself so far. 
 
+---
+## Deployment
 
+**Below are the steps to take to deploy this website:**
 
+Project Lambda is deployed on Github. Follow the steps below to deploy a Github Repository through GitHub pages:
 
+1. Select the repository that you want to deploy, and select the settings link at the top right of the menu bar (A 'cog' icon will show near it). 
+2. Select the pages section on the vertical navigation bar on the left. 
+3. On the Github pages tab, scroll to the Source area and change the "None" branch tab to "Main", followed by changing the folder selector to "Root". 
+4. Finally, save this setting and refresh the site until you are presented with the following message in green: "Your site is published at (Your Github web address)"
 
+### Forking your Repository 
 
+You can fork your repository to create a copy of the original one. This allows you to make changes without altering the original repository. Take the steps below:
 
+1. Find and select your chosen repository.
+2. At the top right of the page, between the watch/unwatch tab and the star tab, select the "Fork" tab.
+3. You will now find a copy of the same repository in your account. 
 
+### Cloning a Repository
 
+See steps below to make a local clone repository:
+
+1. Find and select the chosen repository.
+2. Select the "Code" button above the displayed repository files. 
+3. Select and Copy the displayed link. 
+4. In Gitpod, change the directory to the desired location. 
+5. Type "git clone" in the terminal and paste the link, followed by pressing the Enter key on your keyboard. 
+6. You have successfully created a local clone!
 ---
 
 ## Credits
