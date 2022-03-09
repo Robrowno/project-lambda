@@ -1,5 +1,6 @@
 /* CSS for Project-Lambda */
 
+/* Font Import link */
 @import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&family=Roboto:wght@300&display=swap');
 
 * {
@@ -22,7 +23,6 @@ h1 {
     color: black;
     text-align: left;
 }
-
 
 /* --- Navigation --- */
 
@@ -55,7 +55,6 @@ h1 {
     width: 50%;
     justify-content: right;
     display: flex;
-
 }
 
 #menu ul{
@@ -82,15 +81,13 @@ h1 {
 
 /*--- main image ---*/
 
-
 #hotgates {
     height: 500px;
     width: 100%;
-    background: url(../assets/images/HotGates.jpeg) no-repeat center center;
+    background: url(../assets/images/hotgates.jpeg) no-repeat center center;
     background-color: gray;
     text-align: center;
 }
-
 
 /*--- Main Content ---*/
 
@@ -116,14 +113,11 @@ h3 {
     margin: 10px 15px 8px 15px;
 }
 
-
 .image-line img {
     margin: 0px 15px 0px 15px;
     width: 80%;
     height: 80%;
 }
-
-
 
 .image-line {
     background-color: gray;
@@ -139,7 +133,6 @@ h3 {
     position: relative;
 }
 
-
 #herodotus {
     font-weight: 500;
     font-size: larger;
@@ -153,12 +146,12 @@ h3 {
 #thermopyles {
     height: 500px;
     width: 100%;
-    background: url(../assets/images/Thermopyles-Greece.webp) no-repeat center center;
+    background: url(../assets/images/thermopyles-greece.webp) no-repeat center center;
     margin-top: 10px;
 }
 
-
 /*--- footer ---*/
+
 .social-networks {
     text-align: center;
     padding-top: 60px;  
@@ -176,12 +169,10 @@ footer {
     bottom: 0;
 }
 
-
 i {
     font-size: 3rem;
     color: black;
 }
-
 
 /*--- media queries ---*/
 
@@ -192,10 +183,8 @@ i {
 
     #logo {
         font-size: 2.3rem;
-        
     }
   
-
     #menu li {
         padding: 1.5rem;
         font-size: 1.3rem;
@@ -211,22 +200,19 @@ i {
         padding-bottom: 10px;
     }
 
-
     .image-line img {
         margin: 0px 15px 0px 15px;
-        width: 350px;
+        width: 300px;
         height: 230px;
         display: inline-flex;
         align-items: center;
-        } 
+    } 
 
-        .social-networks li {
+    .social-networks li {
             margin: 70px;
-        }
+    }
 
     }
-  
-  
 
    /* For   Medium Sized Screens 
       E.g:  Tablets, Ipads */
@@ -248,8 +234,6 @@ i {
     } 
 
 }
-  
-
   
   /* For Small Screens
      E.g: Mobile Phones */
