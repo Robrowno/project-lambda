@@ -43,7 +43,7 @@ Using Balsamiq, I came up with three mediums for the website. A desktop, Tablet 
     - When the user hovers over the links, they underline to add a bit more functionality to the bar and to confirm to the user that the links to respond to taske them where they want to go.
 
 
-<!-- Add finished nav bar screenshot here -->
+![Navigation](assets/images/navigation.png)
 
 
 * Hero Image 
@@ -73,7 +73,9 @@ Using Balsamiq, I came up with three mediums for the website. A desktop, Tablet 
 * Footer/Social-Network Bar
     - This section, which is also linked in the Navigation Bar, encourages the reader to follow the developer on the displayed social media icons. They are very recognisable icons that should intuitively be clicked on to lead the reader to the given websites. 
 
-<!-- Add screenshot of finished footer bar here -->
+![Footer](assets/images/footer.png)
+
+---
 
  ## Other Features to implement
 
