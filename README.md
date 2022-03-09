@@ -98,6 +98,18 @@ CSS tested with no errors found on: https://jigsaw.w3.org/css-validator/
 
 ![CSS Pass](assets/images/css-validation.png)
 
+---
+Accessibility Score displayed below using Lighthouse in the Dev Tools:
+
+![Accessibility](assets/images/accessibility.png)
+
+---
+
+I have tested the website as a user as well. I did the following:
+
+- Tested the website on laptop and mobile devices (Macbook Pro, Iphone X and Iphone 12 Pro). I found the website was responsive across all platforms and there were no bugs glitches impeding the user experience. 
+- Tested the website on 2 different browsers: Safari and Chrome. Again, I did not find any issues that presented themselves to me. 
+- The navigation and footer menus all work exactly as intended. The navigation links take you directly to the sections they are meant to, and the social media icons link the user to the relavent social media websites in a new tab. 
 
 **When deploying the website, no obvious bugs have been found by myself so far.**
 
