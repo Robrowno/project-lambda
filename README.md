@@ -23,15 +23,15 @@ Using Balsamiq, I came up with three mediums for the website. A desktop, Tablet 
 
 ### Desktop
 
-![Desktop](assets/images/Desktop_Wireframe.png)
+![Desktop](assets/images/desktop_wireframe.png)
 
 ### Tablet
 
-![Tablet](assets/images/Tablet_Wireframe.png)
+![Tablet](assets/images/tablet_wireframe.png)
 
 ### Mobile
 
-![Mobile](assets/images/Mobile_Wireframe.png)
+![Mobile](assets/images/mobile_wireframe.png)
 
 ---
 
@@ -49,7 +49,7 @@ Using Balsamiq, I came up with three mediums for the website. A desktop, Tablet 
 * Hero Image 
     - A hero image of a picture depicting the battle at the top of the page between the header and the About section. Designed to draw the user in to find out more about thew battle. 
 
-![Hero-Image](assets/images/HotGates.jpeg)    
+![Hero-Image](assets/images/hotgates.jpeg)    
 
 
 * About Section 
@@ -90,14 +90,14 @@ HTML tested with no errors found on: https://validator.w3.org/
 
 ![HTML Pass](assets/images/html-validation.png)
 
---
+---
 
 CSS tested with no errors found on: https://jigsaw.w3.org/css-validator/
 
 ![CSS Pass](assets/images/css-validation.png)
 
 
-When deploying the website, no obvious bugs have been found by myself so far. 
+**When deploying the website, no obvious bugs have been found by myself so far.**
 
 ---
 ## Deployment
@@ -169,11 +169,11 @@ Chosen Fonts were selected from [Google-Fonts] (https://fonts.google.com/)
 I hit bumps along the way on this project, being my very first website. 
 I couldn't have got it to where it is today without the help of the following people:
 
-- My Code Institute Mentor: Adegbenga Adeye
-- My London Coding Community Mentor: Harry Dhillon
-- Esteph, from the London Coding Community, who took the time out of her day to help me with problems in my code
-- Alexey Kuzmis, also from the London Coding Community, who helped with layout idea brainstorming at the start of the project
-- 
+- My Code Institute Mentor: **Adegbenga Adeye**
+- My London Coding Community Mentor: **Harry Dhillon**
+- **Esteph**, from the London Coding Community, who took the time out of her day to help me with problems in my code
+- **Alexey Kuzmis**, also from the London Coding Community, who helped with layout-idea brainstorming at the start of the project
+
 
 ---
 
@@ -183,7 +183,6 @@ I couldn't have got it to where it is today without the help of the following pe
 -  W3 Schools: for CSS tutorials. I cannot recommend this enough: [Link](https://www.w3schools.com/css/default.asp)
 - Coolers: A website that helped me to pair colours together in an appealing way: [Link](https://coolors.co/e3b505-95190c-b0b2b8-404e4d-cfd6ea)
 - gokulkrishh on Github Gist: providing a fantastic boilerplate Media Query template for other users, like myself, to take inspiration from: [gokulkrishh-template](https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488)
-
 
 
 ---
@@ -218,3 +217,12 @@ Thespian Monument Image: [Link](https://scottmanning.com/content/in-memory-of-th
 Thermopylae Plaque Image: [Link](http://kiwihellenist.blogspot.com/2019/02/simonides.html)
 
 ---
+
+## Final Thoughts
+
+This project, my first proper adventure in to putting coding into practice, has been a thoroughly enjoyable experience. 
+This has proved to be a great challenge to test what I know so far on my Code Institute journey. 
+There were some tricky spots to overcome, but with the help of peers and my mentor, I have come out with a website that I can be proud of for a first endevour! 
+
+6 weeks ago, I didn't know what HTML and CSS was. To get to a point now where I can code a basic website makes me beyond happy! To that end, Happy Coding, Readers! :)
+
