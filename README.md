@@ -50,6 +50,16 @@ Using Balsamiq, I came up with three mediums for the website. A desktop, Tablet 
 ---
 ## UX - Front End
 
+Fonts Used: 
+- Roboto (FW: 300 Light)
+- Lora (FW: Medium 500)
+
+Main colours: 
+- Font: Black 
+- Body: rgba(176, 178, 184, .7)
+- Header and Footer: Goldenrod
+- Image Background: Gray
+
 
 ---
 
