@@ -14,6 +14,20 @@ My goal with this website is to engage with this target audience and anyone who 
 ![Responsiveness](assets/images/responsive-check.png)
 
 ---
+### Table of Contents 
+1. [Wireframe](#my-wireframe)
+2. [UX](#ux---front-end)
+3. [Features](#features)
+4. [Future Implementations](#other-features-to-implement)
+5. [Testing](#testing)
+6. [Deployment](#deployment)
+7. [Credits](#credits)
+8. [Images](#image-sources)
+9. [Final Thoughts](#final-thoughts)
+
+
+
+---
 ## My wireframe
 
 I came up with my first wireframe and concept using the Balsamiq Wireframes Application that was suggested by Code Institute. 
@@ -32,6 +46,10 @@ Using Balsamiq, I came up with three mediums for the website. A desktop, Tablet 
 ### Mobile
 
 ![Mobile](assets/images/mobile_wireframe.png)
+
+---
+## UX - Front End
+
 
 ---
 
@@ -240,3 +258,7 @@ There were some tricky spots to overcome, but with the help of peers and my ment
 
 6 weeks ago, I didn't know what HTML and CSS was. To get to a point now where I can code a basic website makes me beyond happy! To that end, Happy Coding, Readers! :)
 
+---
+[Return To Top](#battle-of-thermopylae-website---project-lambda)
+
+---
