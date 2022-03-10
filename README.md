@@ -1,10 +1,13 @@
 # Battle of Thermopylae Website - Project Lambda
 
+### Goals
+
 Project Lambda is an informative history website focusing on the Battle of Thermopylae in 480BC.
 
 The target audience for this website will be those looking to broaden there knowledge on Ancient Greek, or more specifically, Spartan history. 
+I want them to be able to clearly understand the sequencing of events, be able to jump to key sections should the wish to, and to come back as returning users if they want to refresh their knowledge on the subject, or reference the website for their own history projects (at school, for example).
 
-My goal with this website is to engage with this target audience and anyone who will be interested in learning about the battle having heard of it in history lessons or films/documentaries, and want to learn more. 
+My own goal with this website is to engage with this target audience and anyone who will be interested in learning about the battle having heard of it in history lessons or films/documentaries, and want to learn more. I want to present information-rich text that paints a clear picture for the reader, and stimulates the readers' desire to want to learn more. 
 
 [Live Link here](https://robrowno.github.io/project-lambda/)
 
@@ -61,6 +64,8 @@ Main colours:
 - Header and Footer: Goldenrod
 - Image Background: Gray
 
+Media:
+- A mixture of images will show between relevant text on the site, as well as 2 background images. One for under the header and one for over the footer. I have opted not to use any video/audio. 
 
 ---
 
@@ -111,6 +116,8 @@ Main colours:
  * In future, a link in the Nav bar to other related battles from the same period would be beneficial to the goals of the site and the reader, to give further context and detail to the battles referenced in my website. 
 
  * What I would do, is add a drop down link to the nav bar that contains links labelled by name of the battle (Marathon, Salamis, Plataea), and the reader would be taken to another page detailing that battle. 
+
+ * Perhaps video links on the site would be useful for readers to further their knowledge. 
 
  ---
 
