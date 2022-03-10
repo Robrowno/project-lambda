@@ -53,6 +53,7 @@ Using Balsamiq, I came up with three mediums for the website. A desktop, Tablet 
 Fonts Used: 
 - Roboto (FW: 300 Light)
 - Lora (FW: Medium 500)
+- When hovering over the nav links in the header, a 1px solid black under-line displays. 
 
 Main colours: 
 - Font: Black 
