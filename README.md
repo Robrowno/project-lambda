@@ -54,21 +54,21 @@ Using Balsamiq, I came up with three mediums for the website. A desktop, Tablet 
 
 * About Section 
     - An About section describes the aim of my website to the reader between two hr lines. It's deisgned to brieftly take the reader's attention away to tell them why I made this website and what my goal is for the reader by the time the feel they want to leave the website. 
-<!-- Screenshot -->
+![About](assets/images/about.png)
 
  * Belligerents 
     - This is split into two seperate areas. One describes the Greek Allied forces, the other, the Achaemenid-Persian forces. Seperating both areas of content is a div of 3 images under each block of text. This is to give the reader a good idea of what a typical soldier looked like and how the armies may have fought together in groups. 
-<!-- Screenshot -->
+![Belligerents](assets/images/belligerents.png)
 
  * Battle Section 
     - The battle section, which is linked in the Navigation, splits up the information about the battle in to 3 day blocks. The reader can see what happened on each day of the battle, before viewing a battle map below to see where the battles took place and how the troops travelled to get there.
-<!-- Screenshot -->
+![Battle](assets/images/battle.png)
 
 * Legacy Section
     - The Legacy section, which is linked in the Navigation, shows the immediate aftermath of the battle and the Cultural influences on us today. I want the user to see where certain famous phrases come from, and how this event in history has shaped modern media such as films, documentaries, books and games that the reader may recognise. 
 
     - If the reader doesn't recognise them, I hope it encourages the reader to investigate further into the media out of curiosity. 
-<!-- Screenshot -->
+![Legacy](assets/images/legacy.png)
 
 * Footer/Social-Network Bar
     - This section, which is also linked in the Navigation Bar, encourages the reader to follow the developer on the displayed social media icons. They are very recognisable icons that should intuitively be clicked on to lead the reader to the given websites. 
