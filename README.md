@@ -119,7 +119,7 @@ Links:
 
 ---
 
-### 404 File ###
+### 404 File 
 
 As an extra task, I was challenged by my mentor to create a basic custom error 404 file to diplay if a user mistypes the url or searches for a page within the website that does not exist. 
 
@@ -164,17 +164,29 @@ CSS tested with no errors found on: https://jigsaw.w3.org/css-validator/
 
 ---
 
-### I have tested the website as a user as well. I did the following: ###
+### I have tested the website as a user as well. I did the following:
 
-- Tested the website on laptop and mobile devices (Macbook Pro, Iphone X and Iphone 12 Pro). I found the website was responsive across all platforms and there were no bugs glitches impeding the user experience. 
-- Tested the website on 2 different browsers: Safari and Chrome. Again, I did not find any issues that presented themselves to me. 
-- The navigation and footer menus all work exactly as intended. The navigation links take you directly to the sections they are meant to, and the social media icons link the user to the relavent social media websites in a new tab. 
+- Tested the website on laptop and mobile devices (Macbook Pro, Iphone X and Iphone 12 Pro). I found the website was responsive across all platforms and there were no bugs glitches impeding the user experience. One issue the appeared but seems to have been fixed is the bug where the floating div was not appearing on all mobile devices. Formatting the css seems to have resolved this. 
+- Tested the website on 2 different browsers: Safari and Chrome. I did not find any issues that presented themselves to me. 
+- The navigation and footer menus all work exactly as intended. The navigation links take you directly to the sections they are meant to, and the social media icons link the user to the relavent social media websites in a new tab. The floating div works on all devices now as well.
+
+### Peer reviews
+
+I submitted my project to the peer-code-review channel on slack to get some feedback, as well as the London community channel. Some users recommend I change the margins of the paragraphs and images, as well as some aesthetic changes they recommended. 
+
+One user actually found a bug that shows a favicon not loading in the dev-tools, but it displays on the website perfectly. I promptly added this into the bugs section in my readme file. 
+
+Otherwise, users enjoyed the content and theme of the website as being quite an interesting and original idea for an MS1/PP1 submission. 
 
 --- 
 
 ### Bugs and Issues ###
 
-I have been very fortunate to not have experienced many bugs in this project. Namely, the only bug I have found myself is that sometimes the floating div that takes you to the top of the page, doesn't appear on all mobile devices. Sometimes it loads, other times it is not present, but also doesn't impact the web page in any way. 
+I have been very fortunate to not have experienced many bugs in this project. Namely, the only bug I have found myself is that sometimes the floating div that takes you to the top of the page, doesn't appear on all mobile devices. Sometimes it loads, other times it is not present, but also doesn't impact the web page in any way. After a few formatting changes in the css, however, the issue seems to now no longer be present. 
+
+One user on the peer-code-review channel found a bug in the dev-tools that displays one of the favicon icons as not loading (an error 404 for the icon), but the icon displays on the webpage as expected. 
+
+**I have not found a fix for this yet, but as mentioned, the icon displays perfectly fine when deployed.** 
 
 Issues I encountered include: 
 
@@ -182,7 +194,7 @@ Issues I encountered include:
 
 ![404 Solution](assets/images/404solution.png)
 
-[Link to the site here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)
+[Link to the website here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)
 
 - Images in the .imageline class: I was struggling to get the images to stay inline or stacked as I adjusted the responsiveness of the webpage. I found a good compromise image size of 80% width and height as the default css, and added media queries to scale the images up or down depending on screen width. 
 
