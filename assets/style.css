@@ -86,6 +86,13 @@ h1 {
     width: 100px;
     height: 100px;
     background-color: gray;
+    margin: 0 auto;
+}
+
+#error-m {
+    height: fit-content;
+    min-width: 100px;
+    background-color: goldenrod;
 }
 
 #return-home {
@@ -94,7 +101,9 @@ h1 {
     background-color: red;
     color: beige;
     border-radius: 20%;
+    text-align: center;
     align-items: center;
+    margin: 0 auto;
 }
 
 
