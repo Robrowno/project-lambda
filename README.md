@@ -14,7 +14,7 @@ My own goal with this website is to engage with this target audience and anyone 
 ---
 ## Website across different platforms
 
-![Responsiveness](assets/images/responsive-check.png)
+![Responsiveness](assets/images/responsiveness-check.png
 
 ---
 ### Table of Contents 
