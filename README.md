@@ -14,7 +14,7 @@ My own goal with this website is to engage with this target audience and anyone 
 ---
 ## Website across different platforms
 
-![Responsiveness](assets/images/responsiveness-check.png
+![Responsiveness](assets/images/responsiveness-check.png)
 
 ---
 ### Table of Contents 
@@ -135,13 +135,19 @@ CSS tested with no errors found on: https://jigsaw.w3.org/css-validator/
 ![CSS Pass](assets/images/css-validation.png)
 
 ---
-Accessibility Score displayed below using Lighthouse in the Dev Tools:
-
+## Accessibility Score displayed below using Lighthouse in the Dev Tools: ##
+**Prior to adding the floating div on my website, and other small styling and formatting changes, this was my Lighthouse Accessibility score:**
 ![Accessibility](assets/images/accessibility.png)
+
+**After adding the new floating div and making some other minor changes, my accessibility score dropped from 100 to 97 but you will notice the performance appears to drop significantly.**
+
+![Accessibility2](assets/images/accessibility2.png)
+
+**I do not notice any significant performance changes to the website, apart from an ever so slighly longer webpage loading time when opening the page for the first time. I also do not know how much the performance is down to the device on which the user is visiting the website.**
 
 ---
 
-I have tested the website as a user as well. I did the following:
+### I have tested the website as a user as well. I did the following: ###
 
 - Tested the website on laptop and mobile devices (Macbook Pro, Iphone X and Iphone 12 Pro). I found the website was responsive across all platforms and there were no bugs glitches impeding the user experience. 
 - Tested the website on 2 different browsers: Safari and Chrome. Again, I did not find any issues that presented themselves to me. 

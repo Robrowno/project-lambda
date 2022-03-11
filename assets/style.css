@@ -99,7 +99,7 @@ h1 {
     margin: 0 auto;
 }
 
-#return-home > a {
+#return-home>a {
     text-align: center;
     font: 400;
     font-size: large;
