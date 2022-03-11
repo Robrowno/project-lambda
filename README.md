@@ -2,7 +2,7 @@
 
 ### Goals and Description
 
-Project Lambda is an informative history website focusing on the Battle of Thermopylae in 480BC.
+Project Lambda is an informative history website focusing on the Battle of Thermopylae in 480BCE.
 
 The target audience for this website will be those looking to broaden there knowledge on Ancient Greek, or more specifically, Spartan history. 
 I want them to be able to clearly understand the sequencing of events, be able to jump to key sections should the wish to, and to come back as returning users if they want to refresh their knowledge on the subject, or reference the website for their own history projects (at school, for example).
@@ -12,11 +12,13 @@ My own goal with this website is to engage with this target audience and anyone 
 [Live Link here](https://robrowno.github.io/project-lambda/)
 
 ---
+
 ## Website across different platforms
 
 ![Responsiveness](assets/images/responsiveness-check.png)
 
 ---
+
 ### Table of Contents 
 1. [Wireframe](#my-wireframe)
 2. [UX](#ux---front-end)
@@ -28,9 +30,8 @@ My own goal with this website is to engage with this target audience and anyone 
 8. [Images](#image-sources)
 9. [Final Thoughts](#final-thoughts)
 
-
-
 ---
+
 ## My wireframe
 
 I came up with my first wireframe and concept using the Balsamiq Wireframes Application that was suggested by Code Institute. 
@@ -51,6 +52,7 @@ Using Balsamiq, I came up with three mediums for the website. A desktop, Tablet 
 ![Mobile](assets/images/mobile_wireframe.png)
 
 ---
+
 ## UX - Front End
 
 When I think of Ancient Greece, and more specifically Sparta, I think of 3 Colours:
@@ -85,15 +87,12 @@ Links:
     - There are 3 options: Battle, Legacy and Socials. The Battle link takes the user to the 3 day battle section of the page. The Legacy link allows the user to jump to the aftermath of the battle to see how the battle has influenced history. The Socials link takes the user to the footer of the website to access the social media icons and follow the developer on any of those platforms. 
     - When the user hovers over the links, they underline to add a bit more functionality to the bar and to confirm to the user that the links to respond to taske them where they want to go.
 
-
 ![Navigation](assets/images/navigation.png)
-
 
 * Hero Image 
     - A hero image of a picture depicting the battle at the top of the page between the header and the About section. Designed to draw the user in to find out more about thew battle. 
 
 ![Hero-Image](assets/images/hotgates.jpeg)    
-
 
 * About Section 
     - An About section describes the aim of my website to the reader between two hr lines. It's deisgned to brieftly take the reader's attention away to tell them why I made this website and what my goal is for the reader by the time the feel they want to leave the website. 
@@ -119,6 +118,7 @@ Links:
 ![Footer](assets/images/footer.png)
 
 ---
+
 ### 404 File ###
 
 As an extra task, I was challenged by my mentor to create a basic custom error 404 file to diplay if a user mistypes the url or searches for a page within the website that does not exist. 
@@ -126,8 +126,6 @@ As an extra task, I was challenged by my mentor to create a basic custom error 4
 The styling is simple, but does the job. It uses the same colours and logo title as the index.html to keep a consistent theme. A link directs the user back to the home/main page of the website:
 
 ![Error404](assets/images/error404.png)
-
-
 
 ---
 
@@ -140,7 +138,6 @@ The styling is simple, but does the job. It uses the same colours and logo title
  * Perhaps video links on the site would be useful for readers to further their knowledge. 
 
  ---
-
 
 ## Testing
 
@@ -190,6 +187,7 @@ Issues I encountered include:
 - Images in the .imageline class: I was struggling to get the images to stay inline or stacked as I adjusted the responsiveness of the webpage. I found a good compromise image size of 80% width and height as the default css, and added media queries to scale the images up or down depending on screen width. 
 
 ---
+
 ## Deployment
 
 **Below are the steps to take to deploy this website:**
@@ -219,6 +217,7 @@ See steps below to make a local clone repository:
 4. In Gitpod, change the directory to the desired location. 
 5. Type "git clone" in the terminal and paste the link, followed by pressing the Enter key on your keyboard. 
 6. You have successfully created a local clone!
+
 ---
 
 ## Credits
@@ -254,6 +253,7 @@ Icons used the social media were provided using [Font-Awesome](https://fontaweso
 Chosen Fonts were selected from [Google-Fonts] (https://fonts.google.com/)
 
 ---
+
 ### Help from Peers:
 
 I hit bumps along the way on this project, being my very first website. 
@@ -276,6 +276,7 @@ I couldn't have got it to where it is today without the help of the following pe
 It is a fantastic tutorial: [Youtube-link](https://www.youtube.com/watch?v=u5hx_YtqylA&t=149s
 
 ---
+
 ## Image Sources:
 
 Thermopyles image : [Link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FThermopylae&psig=AOvVaw3B9__qq0rwp50I9TGZa7c8&ust=1645882325799000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDgic37mvYCFQAAAAAdAAAAABAD)
@@ -317,6 +318,7 @@ There were some tricky spots to overcome, but with the help of peers and my ment
 6 weeks ago, I didn't know what HTML and CSS was. To get to a point now where I can code a basic website makes me beyond happy! To that end, Happy Coding, Readers! :)
 
 ---
+
 [Return To Top](#battle-of-thermopylae-website---project-lambda)
 
 ---
