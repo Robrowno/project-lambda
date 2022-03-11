@@ -53,6 +53,9 @@ Using Balsamiq, I came up with three mediums for the website. A desktop, Tablet 
 ---
 ## UX - Front End
 
+When I think of Ancient Greece, and more specifically Sparta, I think of 3 Colours:
+Bronze(Golden-Yellow), Grey and Red/Crimson. These colours had to feature on my website. 
+
 Fonts Used: 
 - Roboto (FW: 300 Light)
 - Lora (FW: Medium 500)
@@ -63,9 +66,15 @@ Main colours:
 - Body: rgba(176, 178, 184, .7)
 - Header and Footer: Goldenrod
 - Image Background: Gray
+- Floating Div: Red, and Crimson when hovered over. 
 
 Media:
 - A mixture of images will show between relevant text on the site, as well as 2 background images. One for under the header and one for over the footer. I have opted not to use any video/audio. 
+
+Links: 
+- Links to 3 sections on the page can be found in the heading (Battle, Legacy and Socials)
+- Links to the Social Media websites are displayed with associated Icons in the footer (Facebook, Instagram, Twitter and Youtube)
+- A red floating div follows the user as they scroll down the website, and when selected, it takes the user back to the top of the webpage to save them from scrolling all the way back.
 
 ---
 
@@ -175,6 +184,8 @@ Issues I encountered include:
 - Making the 404 file: I could not get my image to display until I looked online and found out that you need to make a 404.md file as well as the 404.html file in order for it to display. In it, you need to quote the permalink code you see written in the image below:
 
 ![404 Solution](assets/images/404solution.png)
+
+[Link to the site here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)
 
 - Images in the .imageline class: I was struggling to get the images to stay inline or stacked as I adjusted the responsiveness of the webpage. I found a good compromise image size of 80% width and height as the default css, and added media queries to scale the images up or down depending on screen width. 
 
