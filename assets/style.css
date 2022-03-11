@@ -83,7 +83,7 @@ h1 {
 
 #error {
     text-align: center;
-    width: 100px;
+    width: 600px;
     height: 100px;
     background-color: gray;
     margin: 0 auto;
@@ -100,7 +100,7 @@ h1 {
 }
 
 #return-home > a {
-    padding: 50%;
+    text-align: center;
     font: 400;
     font-size: large;
 }
