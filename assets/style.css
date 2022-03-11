@@ -143,6 +143,30 @@ h3 {
     padding: 20px 0;
 }
 
+/* Floating Button */
+
+.to-top {
+    width: 80px;
+    height: 80px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: beige;
+    font-size: 40px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+
+}
+
+.to-top:hover {
+    background-color: crimson;
+    cursor: pointer;
+}
+
 /* --- Footer Image --- */
 
 #thermopyles {
@@ -259,6 +283,12 @@ i {
 
     #herodotus {
         margin-left: 15px;
+    }
+
+    .to-top {
+        height: 60px;
+        width: 60px;
+        font-size: smaller;
     }
 
 }
