@@ -1,6 +1,6 @@
 # Battle of Thermopylae Website - Project Lambda
 
-### Goals
+### Goals and Description
 
 Project Lambda is an informative history website focusing on the Battle of Thermopylae in 480BC.
 
@@ -110,6 +110,17 @@ Media:
 ![Footer](assets/images/footer.png)
 
 ---
+### 404 File ###
+
+As an extra task, I was challenged by my mentor to create a basic custom error 404 file to diplay if a user mistypes the url or searches for a page within the website that does not exist. 
+
+The styling is simple, but does the job. It uses the same colours and logo title as the index.html to keep a consistent theme. A link directs the user back to the home/main page of the website:
+
+![Error404](assets/images/error404.png)
+
+
+
+---
 
  ## Other Features to implement
 
@@ -153,7 +164,19 @@ CSS tested with no errors found on: https://jigsaw.w3.org/css-validator/
 - Tested the website on 2 different browsers: Safari and Chrome. Again, I did not find any issues that presented themselves to me. 
 - The navigation and footer menus all work exactly as intended. The navigation links take you directly to the sections they are meant to, and the social media icons link the user to the relavent social media websites in a new tab. 
 
-**When deploying the website, no obvious bugs have been found by myself so far.**
+--- 
+
+### Bugs and Issues ###
+
+I have been very fortunate to not have experienced many bugs in this project. Namely, the only bug I have found myself is that sometimes the floating div that takes you to the top of the page, doesn't appear on all mobile devices. Sometimes it loads, other times it is not present, but also doesn't impact the web page in any way. 
+
+Issues I encountered include: 
+
+- Making the 404 file: I could not get my image to display until I looked online and found out that you need to make a 404.md file as well as the 404.html file in order for it to display. In it, you need to quote the permalink code you see written in the image below:
+
+![404 Solution](assets/images/404solution.png)
+
+- Images in the .imageline class: I was struggling to get the images to stay inline or stacked as I adjusted the responsiveness of the webpage. I found a good compromise image size of 80% width and height as the default css, and added media queries to scale the images up or down depending on screen width. 
 
 ---
 ## Deployment
@@ -230,7 +253,6 @@ I couldn't have got it to where it is today without the help of the following pe
 - **Esteph**, from the London Coding Community, who took the time out of her day to help me with problems in my code
 - **Alexey Kuzmis**, also from the London Coding Community, who helped with layout-idea brainstorming at the start of the project
 
-
 ---
 
 ### Other Credit: 
@@ -239,7 +261,8 @@ I couldn't have got it to where it is today without the help of the following pe
 -  W3 Schools: for CSS tutorials. I cannot recommend this enough: [Link](https://www.w3schools.com/css/default.asp)
 - Coolers: A website that helped me to pair colours together in an appealing way: [Link](https://coolors.co/e3b505-95190c-b0b2b8-404e4d-cfd6ea)
 - gokulkrishh on Github Gist: providing a fantastic boilerplate Media Query template for other users, like myself, to take inspiration from: [gokulkrishh-template](https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488)
-
+- I used this Youtube video by "dcode" as inspiration for my floating div button.
+It is a fantastic tutorial: [Youtube-link](https://www.youtube.com/watch?v=u5hx_YtqylA&t=149s
 
 ---
 ## Image Sources:
