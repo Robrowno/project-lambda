@@ -106,11 +106,13 @@ h2 {
     font-family: 'Lora', serif;
     margin: 15px 15px 8px 15px;
     text-decoration: underline;
+    text-align: center;
 }
 
 h3 {
     font-family: 'Lora', serif;
     margin: 10px 15px 8px 15px; 
+    text-align: center;
 }
 
 .image-line img {
@@ -183,6 +185,8 @@ i {
 
     #logo {
         font-size: 2.3rem;
+        padding-left: 0;
+        margin-left: 10px
     }
   
     #menu li {
@@ -248,8 +252,9 @@ i {
    }
    
    p {
-       margin-left: 15px;
+       margin: 5%;
        font-size: 1.1rem;
+    
    }
 
    #herodotus {
