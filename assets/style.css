@@ -79,6 +79,18 @@ h1 {
     border-bottom: 1px solid black;
 }
 
+/*  Styling for 404 Page Only */
+
+#return-home {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    color: beige;
+    border-radius: 20px;
+}
+
+
+
 /*--- main image ---*/
 
 #hotgates {
