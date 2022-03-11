@@ -81,12 +81,20 @@ h1 {
 
 /*  Styling for 404 Page Only */
 
+#error {
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+}
+
 #return-home {
     width: 100px;
     height: 100px;
     background-color: red;
     color: beige;
-    border-radius: 20px;
+    border-radius: 20%;
+    align-items: center;
 }
 
 
